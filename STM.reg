@@ -1,6 +1,0 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_CURRENT_USER\Software\Cantonics\BlendOneV2]
-"CanvasWidth"=dword:00000300
-"CanvasHeight"=dword:00000400
-"ToggleUp"="TRUE"
