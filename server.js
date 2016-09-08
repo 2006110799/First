@@ -1,5 +1,5 @@
-var server = require("http");  
-server = http.createServer(function(req, res) {
+var http = require("http");  
+var server = http.createServer(function(req, res) {
     res.writeHead(200, {
         'Content-Type': 'text/html' //将返回类型由text/plain改为text/html
     });
