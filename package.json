@@ -5,4 +5,8 @@
     "main": "server.js",  
     "dependencies": {  
     },  
+    "engines": {  
+        "node": "0.10.46",  
+        "npm": "2.15.1" 
+    }  
 }  
