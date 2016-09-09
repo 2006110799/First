@@ -2,8 +2,8 @@
     "name": "hichat",  
     "description": "a realtime chat web application",  
     "version": "0.4.0",  
-    "main": "server.js",  
     "dependencies": {  
+        "express": "2.5.x"
     },  
     "engines": {  
         "node": "0.10.46",  
